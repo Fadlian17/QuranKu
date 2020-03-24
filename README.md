@@ -1,5 +1,5 @@
 # QuranKu
 QuranKu Android Application
 
-SQLDATABASE:
+DATABASE:
 http://www.qurandatabase.org/
